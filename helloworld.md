@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LuneBlanche
+- 👋 Hi, I’m @Ofete
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning linux
-- 💞️ I’m playing League of Legends
 - 📫 How to reach me omerfaruktoptas.23@gmail.com
 
 <!---
